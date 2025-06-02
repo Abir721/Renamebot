@@ -1,7 +1,7 @@
 pyrogram==2.0.106
 tgcrypto
-Flask==2.3.3
 Pillow
+Flask==2.3.3
 requests
 certifi
 gunicorn
